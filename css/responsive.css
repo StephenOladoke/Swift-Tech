@@ -36,6 +36,7 @@
     .site-main .about-area .about-title h2 > span{
         font-size: 31px;
         letter-spacing: 10px;
+        font: normal 500 18px/40px var(--roboto);
     }
 
     .site-main .brand-area .experience-area .years-area{
@@ -63,6 +64,7 @@
     .site-main .subscribe-us-area .subscribe form .input-textbox input{
         width: 20rem;
         margin: 5%;
+        font: normal 500 18px/40px var(--roboto);
     }
 }
 
