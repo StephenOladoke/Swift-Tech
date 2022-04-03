@@ -66,6 +66,10 @@
         margin: 5%;
         font: normal 500 18px/40px var(--roboto);
     }
+    .site-main .subscribe-us-area .subscribe form .btn-submit a{
+        margin-left: 46%;
+        padding: 5% 6% 5% 6%;
+    }
 }
 
 
@@ -80,7 +84,6 @@
     .container{
         max-width: 90%;
     }
-
     .site-main .brand-area,
     .site-main .services-area .services-title,
     .site-main .about-area{
