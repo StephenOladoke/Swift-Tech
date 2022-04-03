@@ -237,14 +237,10 @@
 .site-main > .services-area .services:hover{
     box-shadow: var(--box-shadow);
 }
-
-
-
 /* End Services Area */ 
 
 
 /* Project Area */ 
-
 .site-main .project-area{
     padding: 4rem 0;
 }
@@ -271,13 +267,10 @@
 .site-main .project-area .grid .our-project .img a:hover img{
     filter: brightness(1.1) drop-shadow(1px 8px 30px #b1afaf);
 }
-
-
 /* End Project Area */ 
 
 
 /* About Me */ 
-
 .site-main .about-area .about-title p{
     padding: 1rem 7rem;
 }
@@ -317,13 +310,9 @@
     width: 12px;
     height: 12px;
 }
-
-
-
 /* End About Me */ 
 
 /* Subscribe me */ 
-
 .site-main .subscribe-us-area .subscribe{
     /* background: url(../img/subscribe-bg.png) no-repeat; */
     background: var(--gradient-color);
