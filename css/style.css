@@ -62,12 +62,9 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
-
-
 /* end navigation */ 
 
 /* Banner Area */ 
-
 .site-main .site-banner {
     background: url(../img/banner/home-banner.png) no-repeat 0% 50%;
     background-size: cover;
